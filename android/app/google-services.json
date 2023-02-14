@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738089086825",
+    "project_id": "chatapp-29bc8",
+    "storage_bucket": "chatapp-29bc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738089086825:android:2cc1263df5cc6984d257f8",
+        "android_client_info": {
+          "package_name": "com.example.weather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738089086825-15cs3i78g5ssqbbncbscbtf8c9o4tsek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weather_app",
+            "certificate_hash": "dd32d4703cf8ce35674a9aaf30776a27345570c2"
+          }
+        },
+        {
+          "client_id": "738089086825-18fmjrjh9lbtovejgdbialm6qo26gq6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoR6lPTZJH12y9GYehd3_33hLuEHPeuiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738089086825-18fmjrjh9lbtovejgdbialm6qo26gq6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
